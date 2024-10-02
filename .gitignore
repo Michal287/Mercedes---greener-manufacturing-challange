@@ -1,0 +1,8 @@
+# Env
+.venv
+
+# Models
+/catboost_info
+
+# Python
+/__pycache__
