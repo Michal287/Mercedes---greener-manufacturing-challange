@@ -6,4 +6,3 @@ This project is part of the Mercedes-Benz Greener Manufacturing Challenge. The g
 
 ## Achievements
 * Final Achieved Score (R² on the test set): 0.54741
-* Highest Achieved Score (R² on the test set): 0.5555
